@@ -1,0 +1,60 @@
+.centereddiv {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.higher-index {
+    z-index: 10;
+}
+
+/* .parent {
+    position: relative;
+    width: 64em;
+    height: 34.375em;
+}
+
+.parent .child {
+    position: absolute;
+    width: 64em;
+    height: 16.8125em;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+} */
+
+.topit {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+img.homedp {
+    border-radius: 50%;
+}
+
+.about-sub {
+    font-size: 2rem;
+    text-decoration: underline;
+}
+
+.about-list {
+    font-weight: 100;
+}
+.input-borderO {
+    color: aliceblue;
+    background-color: black;
+}
+
+.form-control {
+    color: aliceblue;
+}
+
+.input-borderO:focus {
+    border-color: #20c997;
+}
+
